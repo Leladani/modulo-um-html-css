@@ -18,7 +18,8 @@
     font-family: monospace;
     font-weight: 200;
     line-height: 1;
-    border-width: 5px;
+    border: 15px solid crimson;
+    /* border-width: 15px;
     border: solid;
-    border-color:crimson;
+    border-color:crimson; */
 }
