@@ -1,0 +1,24 @@
+.primeirasListas{
+    color: darkgreen;
+
+}
+.segundasListas{
+    color:darkslateblue;
+}
+.terceirasListas{
+    color:darkmagenta
+}
+
+#titulo{
+     color: rgb(138,43,226)
+}
+
+.paragrafo{
+    font-size: 17px;
+    font-family: monospace;
+    font-weight: 200;
+    line-height: 1;
+    border-width: 5px;
+    border: solid;
+    border-color:crimson;
+}
